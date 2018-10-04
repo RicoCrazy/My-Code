@@ -1,0 +1,17 @@
+//I'Zanae Henderson
+
+//Size of Canvas
+size(300,600);
+  background(0,0,0);
+  
+//Red circle
+  fill(255,0,0);
+  ellipse(width/2,height/6,150,150);
+ 
+//Yellow Circle
+  fill(224,242,32);
+  ellipse(width/2,height/3+85,150,150);
+
+//Green Circle
+  fill(0,255,0);
+  ellipse(width/2,height/6*4.7,150,150);
